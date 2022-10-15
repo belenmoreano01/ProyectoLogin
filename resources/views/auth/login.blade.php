@@ -7,7 +7,7 @@
         <x-jet-validation-errors class="mb-4" />
 
         @if (session('status'))
-            <div class="mb-4 font-medium text-sm text-green-600">
+            <div class="mb-4 font-medium text-sm text-red-600">
                 {{ session('status') }}
             </div>
         @endif
@@ -28,7 +28,7 @@
             <div class="block mt-4">
                 <label for="remember_me" class="flex items-center">
                     <x-jet-checkbox id="remember_me" name="remember" />
-                    <span class="ml-2 text-sm text-gray-600">{{ __('Remember me') }}</span>
+                    <span class="ml-2 text-sm text-blue-600">{{ __('Remember me') }}</span>
                 </label>
             </div>
 
