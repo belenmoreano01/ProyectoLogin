@@ -10,9 +10,10 @@ Para este proyecto se utilizó como framework Laravel con PHP. Se implementó el
 La base de datos está implementada en MySQL, se creó una tabla llamada proyectoweb en el phpMyAdmin
 
 # Development
-Para correr el programa se ingresa el comando "php artisan serve"
+Para correr el programa se ingresa el comando $ "php artisan serve"
 
 
 # Créditos
 Nombre: Andrea Moreano
+
 Correo: belen_moreano25@hotmail.com
