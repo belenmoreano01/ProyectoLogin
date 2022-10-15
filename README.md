@@ -5,7 +5,7 @@ Laravel es un popular framework de PHP. Permite el desarrollo de aplicaciones we
 
 ## IMPLEMENTACIÓN DEL LOGIN O INICIO DE SESIÓN
 
-Para este proyecto se utilizó como framework Laravel con PHP. Se implementó el inició de sesión, el registro de una cuenta, visualizar la información del perfil del usuario y cerrar sesión.
+Para este proyecto se utilizó como framework Laravel con PHP. Se implementó el inició de sesión con JetStream, el registro de una cuenta, visualizar la información del perfil del usuario y cerrar sesión.
 
 La base de datos está implementada en MySQL, se creó una tabla llamada proyectoweb en el phpMyAdmin
 
